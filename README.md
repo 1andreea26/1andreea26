@@ -1,6 +1,6 @@
 # Hi there, I'm Andreea 👋
 
-Welcome to my GitHub profile! I'm a passionate CS Student currently in my third year of bachelor program at EPFL in Switzerland. I am eager to learn new technologies and explore exciting challenges in my field of study. Here you'll find some of my personal projects, contributions, and experiments (Currently a work in progress 👩‍💻).
+Welcome to my GitHub profile! I'm a passionate CS Student currently in my third year of bachelor program at EPFL 🇨🇭. I am eager to learn new technologies and explore exciting challenges in my field of study. Here you'll find some of my personal projects, contributions, and experiments (Currently a work in progress 👩‍💻).
 
 ## About Me
 
