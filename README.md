@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Andreea 👋
 
-<!--
-**1andreea26/1andreea26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate CS Student currently in my third year of bachelor program at EPFL in Switzerland. I am eager to learn new technologies and explore exciting challenges in my field of study. Here you'll find some of my personal projects, contributions, and experiments (Currently a work in progress 👩‍💻).
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and expanding my skills in various programming languages and frameworks.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+
+## My Skills
+
+- **Languages:** Java, Scala, C, Python, Kotlin, HTML, CSS
+- **Frameworks/Libraries:** JavaFX, Numpy, Pytorch
+- **Tools:** Git, VS Code, Android Studio
+
+## Projects
+
+Here's my latest project:
+
+- **[Voyageur](https://github.com/swent-t16/Voyageur):**  Voyageur is a project done in a team of 7 as part of the Mandatory Group Project for our third year of Bachelors. It represents an Android Mobile App designed to help different categories of people to schedule their upcoming touristic/business trips, add friends and pictures to their trips, schedule activities and find activity suggestions based on their location. It also contains a discover feed to see other trips for inspiration. Throughout the project, we followed Project Management practices.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/andreea-teodora-ghinescu/)
+- [Email](mailto:andreea.ghinescu26@gmail.com)
+
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
